@@ -1,0 +1,54 @@
+# Functional and Non-Functional Requirements
+
+## Functional Requirements
+
+1. **User Registration and Login Portal**
+   - The system shall provide a webpage for user registration and login.
+   - The system shall allow users to register by providing their name, email, phone number, and a profile picture.
+   - The system shall allow users to log in using their email and password.
+
+2. **User Data Management**
+   - The system shall store user names, emails, phone numbers, and profile pictures.
+   - The system shall allow users to update their profile information, including name, email, phone number, and profile picture.
+
+3. **Password Management**
+   - The system shall provide a secure password creation mechanism.
+   - The system shall authenticate users using their email and password.
+
+4. **User Profile Viewing and Editing**
+   - The system shall allow users to view other user profiles.
+   - The system shall allow users to edit their own profile details.
+
+## Non-Functional Requirements
+
+1. **Security**
+   - The system shall use encryption to store passwords securely.
+   - The system shall implement measures to protect against common security threats such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).
+
+2. **Performance**
+   - The system shall handle up to 1000 concurrent users without performance degradation.
+   - The system shall load the user profile page within 2 seconds under normal load conditions.
+
+3. **Usability**
+   - The system shall have an intuitive and user-friendly interface.
+   - The system shall provide clear error messages and guidance for user actions.
+
+4. **Scalability**
+   - The system shall be designed to scale horizontally to accommodate increasing numbers of users.
+   - The system shall support the addition of new features with minimal impact on existing functionality.
+
+5. **Availability**
+   - The system shall have an uptime of 99.9% to ensure high availability.
+   - The system shall provide mechanisms for backup and recovery to prevent data loss.
+
+6. **Compliance**
+   - The system shall comply with relevant data protection and privacy regulations, such as GDPR.
+   - The system shall ensure that user data is handled in accordance with legal requirements.
+
+7. **Maintainability**
+   - The system shall be designed with modularity to facilitate easy maintenance and updates.
+   - The system shall include comprehensive documentation for developers and administrators.
+
+8. **Compatibility**
+   - The system shall be compatible with major web browsers (e.g., Chrome, Firefox, Safari, Edge).
+   - The system shall support both desktop and mobile devices.

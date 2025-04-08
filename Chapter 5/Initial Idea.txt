@@ -1,0 +1,4 @@
+1.	The webpage should function as a user registration and login portal.
+2.	Users must be able to store their names, emails, and phone numbers and upload a profile picture.
+3.	A secure password creation and authentication system should be implemented.
+4.	Once logged in, users should have the ability to view other user profiles and edit their own details.
