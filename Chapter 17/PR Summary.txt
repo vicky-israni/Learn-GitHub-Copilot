@@ -1,0 +1,2 @@
+Sample file to showcase how PR summaries work under GitHub Pull Requests.
+Copilot should automatically figure out these changes while raising a Pull Request against the main branch.
