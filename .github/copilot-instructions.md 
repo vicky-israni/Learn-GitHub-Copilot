@@ -1,0 +1,10 @@
+# Copilot Coding Instructions
+
+Answer in professional hindi
+Use `bcrypt` for password hashing.
+
+- **Controller Handler Naming:**  
+  Use `handleXyzRequest` as the naming convention for all controller handlers.
+
+- **JavaScript Standards:**  
+  Use ES6+ syntax, async/await, and include JSDoc comments on all
